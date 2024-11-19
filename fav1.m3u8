@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",翡翠台
-http://beishan008.asuscomm.com:8889/bysid/1.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",明珠台
-http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳视澳门
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳门资讯
+http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳视综艺
+http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8 
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",TDM 1
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",TDM 2
 http://61.244.22.4/ch2/ch2.live/playlist.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",TDM 3
 http://61.244.22.4/ch3/ch3.live/playlist.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳门资讯
-http://61.244.22.5/ch5/info_ch5.live/master.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳视综艺
-http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8 
-#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳视澳门
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",翡翠台
+http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",明珠台
+http://nz171l122.bb60246.ctm.net:8892/bysid/2.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/cnn-us.png" group-title="News",CNN USA
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
