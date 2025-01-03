@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳视澳门
-http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+https://live3.tdm.com.mo/ch1/ch1.live/playelist.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳门资讯
 http://61.244.22.5/ch5/info_ch5.live/master.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="Undefined",澳视综艺
